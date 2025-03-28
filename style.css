@@ -1,0 +1,35 @@
+/* General styling for body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling for the container */
+.container {
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ddd;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for highlighted text */
+#highlight {
+    color: #007bff;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Styling for the image */
+.styled-image {
+    width: 80%;
+    max-width: 300px;
+    border: 3px solid #007bff;
+    border-radius: 10px;
+    margin-top: 10px;
+}
